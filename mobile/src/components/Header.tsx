@@ -5,9 +5,10 @@ import { useNavigation } from '@react-navigation/native'
 import { ButtonIcon } from './ButtonIcon';
 
 interface Props {
-  title: string;
-  showBackButton?: boolean;
-  showShareButton?: boolean;
+  title: string
+  showBackButton?: boolean
+  showShareButton?: boolean
+  onShare: () => void
 }
 
 export function Header({ title, showBackButton = false, showShareButton = false }: Props) {
