@@ -7,12 +7,12 @@ Aplicação para criação de bolões de jogos da Copa do Mundo.
 O projeto adotou uma abordagem centrada no mobile, concentrando-se no desenvolvimento das funcionalidades mais avançadas exclusivamente para dispositivos móveis. Além disso, há também uma versão para a web, porém com recursos limitados.
 
 ## Tecnologias
-- [TypeScript]
-- [React]
-- [React Native]
-- [Expo]
-- [Fastify]
-- [Prisma]
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
 
 ## Executar 
 
