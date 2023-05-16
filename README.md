@@ -4,9 +4,7 @@
 
 Aplicação para criação de bolões de jogos da Copa do Mundo.
 
-O projeto tomou uma abordagem focada no mobile, com o desenvolvimento das funcionalidades mais robustas somente para o mobile.
-
-This project is an institutional website developed using best practices, aiming to create intuitive, responsive, and easy-to-access sections.
+O projeto adotou uma abordagem centrada no mobile, concentrando-se no desenvolvimento das funcionalidades mais avançadas exclusivamente para dispositivos móveis. Além disso, há também uma versão para a web, porém com recursos limitados.
 
 ## Tecnologias
 - [TypeScript]
